@@ -1,0 +1,27 @@
+Description of files:
+1. Analysis.ipynb 
+- analysis and evaluation of portfolios in 2020 
+
+2. Hedging.ipynb
+- details of the hedging strategy using options
+
+3. VaR and ES.ipynb
+- calculation of VaR and ES in 2020
+
+4. XGBoost_Predictions.ipynb
+- feature engineering, training of xgb models for stock forecasting
+
+5. XGBoost Output.ipynb
+- transforming xgboost predictions as inputs to the Black-litterman model
+
+6. Data Preprocessing.py
+- generate alphas as the dependent variables for xgboost training
+
+7. Utils.py
+- commonly used methods, such as downloading data from yahoo finance and calculating betas for assets
+
+8. BL_analyst.ipynb
+- portfolio optimisation for Oct 2020 using analyst target prices
+
+9. BL_xgb.ipynb
+- portfolio optimisation for Oct 2020 using XGB predicted alpha values

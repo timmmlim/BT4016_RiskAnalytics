@@ -1,0 +1,52 @@
+title,name,ticker,is_valid,value_usd,pct_portfolio,payoff_profile
+"AbbVie, Inc.",AbbVie Inc,ABBV,yes,12665911.56,7.477464951,Long
+"Amgen, Inc.",Amgen Inc,AMGN,yes,12544866.28,7.406004493,Long
+"Gilead Sciences, Inc.",Gilead Sciences Inc,GILD,yes,10313764.02,6.088847897,Long
+Celgene Corp.,Celgene Corp,BMY,,9824444.1,5.799972317,Long
+First American Government Obligations Fund,First American Funds,FAAXX,,8153730.24,4.813647387,Long
+"Illumina, Inc.",Illumina Inc,ILMN,yes,7773733.66,4.589312084,Long
+"Vertex Pharmaceuticals, Inc.",Vertex Pharmaceuticals Inc,VRTX,yes,7686246.56,4.537663079,Long
+"Biogen, Inc.",Biogen Inc,BIIB,yes,7631141.14,4.505130968,Long
+"Regeneron Pharmaceuticals, Inc.",Regeneron Pharmaceuticals Inc,REGN,yes,6385193.2,3.76957143,Long
+"Alexion Pharmaceuticals, Inc.",Alexion Pharmaceuticals Inc,ALXN,yes,5374751.32,3.173045574,Long
+"Seattle Genetics, Inc.",Seattle Genetics Inc,SGEN,yes,4772835.2,2.817697546,Long
+Incyte Corp.,Incyte Corp,INCY,yes,4541539.86,2.681149711,Long
+"BioMarin Pharmaceutical, Inc.",BioMarin Pharmaceutical Inc,BMRN,yes,3822860.6,2.256869236,Long
+Exact Sciences Corp.,Exact Sciences Corp,EXAS,yes,3726858.8,2.200193482,Long
+Mylan N.V.,Mylan NV,MYL,yes,3681849.2,2.173621552,Long
+"Alnylam Pharmaceuticals, Inc.",Alnylam Pharmaceuticals Inc,ALNY,yes,3412220.6,2.014443242,Long
+"Ionis Pharmaceuticals, Inc.",Ionis Pharmaceuticals Inc,IONS,yes,3377006.88,1.993654421,Long
+Bio-Techne Corp.,Bio-Techne Corp,TECH,yes,3208596.66,1.894231533,Long
+"Neurocrine Biosciences, Inc.",Neurocrine Biosciences Inc,NBIX,yes,3115012.59,1.838983112,Long
+"PRA Health Sciences, Inc.",PRA Health Sciences Inc,PRAH,yes,2856831.7,1.686563087,Long
+"Sage Therapeutics, Inc.",Sage Therapeutics Inc,SAGE,yes,2822073.64,1.666043271,Long
+"Syneos Health, Inc.",Syneos Health Inc,SYNH,yes,2706260.6,1.597671726,Long
+"Sarepta Therapeutics, Inc.",Sarepta Therapeutics Inc,SRPT,yes,2636802.56,1.556666382,Long
+"Exelixis, Inc.",Exelixis Inc,EXEL,yes,2530511.28,1.493916116,Long
+"ACADIA Pharmaceuticals, Inc.",ACADIA Pharmaceuticals Inc,ACAD,yes,2528981.31,1.493012881,Long
+"Bluebird Bio, Inc.",Bluebird Bio Inc,BLUE,yes,2469958,1.458167798,Long
+Medicines Co.,Medicines Co/The,NOVN,,2424300,1.431213079,Long
+Jazz Pharmaceuticals plc,Jazz Pharmaceuticals PLC,JAZZ,yes,2318693.3,1.368866962,Long
+"Spark Therapeutics, Inc.",Spark Therapeutics Inc,RHBY,,2234031.28,1.318885776,Long
+United Therapeutics Corp.,United Therapeutics Corp,UTHR,yes,2074776,1.22486761,Long
+"FibroGen, Inc.",FibroGen Inc,FGEN,yes,2041924.66,1.205473448,Long
+Nektar Therapeutics,Nektar Therapeutics,NKTR,,2035362.32,1.201599296,Long
+Amarin Corporation plc,Amarin Corp PLC,AMRN,,1932596.8,1.140930502,Long
+"Global Blood Therapeutics, Inc.",Global Blood Therapeutics Inc,GBT,,1902129.56,1.12294382,Long
+"Ultragenyx Pharmaceutical, Inc.",Ultragenyx Pharmaceutical Inc,,,1826706,1.078416664,Long
+"Intercept Pharmaceuticals, Inc.",Intercept Pharmaceuticals Inc,,,1708703.64,1.008752629,Long
+"Myriad Genetics, Inc.",Myriad Genetics Inc,,,1702425.69,1.005046369,Long
+Alkermes plc,Alkermes PLC,,,1692297.4,0.999067018,Long
+"Immunomedics, Inc.",Immunomedics Inc,,,1636363.56,0.96604584,Long
+"PTC Therapeutics, Inc.",PTC Therapeutics Inc,,,1612199.4,0.951780253,Long
+"Portola Pharmaceuticals, Inc.",Portola Pharmaceuticals Inc,,,1590157.8,0.938767744,Long
+"Ligand Pharmaceuticals, Inc.",Ligand Pharmaceuticals Inc,,,1550932.74,0.915610783,Long
+"Agios Pharmaceuticals, Inc.",Agios Pharmaceuticals Inc,,,1538935.2,0.908527899,Long
+"Heron Therapeutics, Inc.",Heron Therapeutics Inc,,,1352720,0.798593638,Long
+"REGENXBIO, Inc.",REGENXBIO Inc,,,1264512,0.746519042,Long
+"Madrigal Pharmaceuticals, Inc.",Madrigal Pharmaceuticals Inc,,,1245879,0.735518838,Long
+JPMorgan Chase & Co.,J.P. MORGAN SECURITIES LLC,,,710571.8,0.419494144,Long
+"Clovis Oncology, Inc.",Clovis Oncology Inc,,,512982.9,0.30284529,Long
+Bank of America Merrill Lynch,"BOFA SECURITIES, INC.",,,228496.19,0.134895325,Long
+Barclays Capital,BARCLAYS CAPITAL INC.,,,205646.57,0.121405792,Long
+"Clinical Data, Inc.",Clinical Data Inc,,,0.02,1.18E-08,Long

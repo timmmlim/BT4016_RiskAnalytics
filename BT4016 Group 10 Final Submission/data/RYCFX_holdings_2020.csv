@@ -1,0 +1,55 @@
+title,name,ticker,value_usd,pct_portfolio,payoff_profile
+"AbbVie, Inc.",AbbVie Inc,ABBV,17468087.42,7.287424965,Long
+"Amgen, Inc.",Amgen Inc,AMGN,15558740.76,6.490874079,Long
+"Gilead Sciences, Inc.",Gilead Sciences Inc,GILD,13173743.74,5.495888972,Long
+"Vertex Pharmaceuticals, Inc.",Vertex Pharmaceuticals Inc,VRTX,11678590.68,4.872133465,Long
+"Regeneron Pharmaceuticals, Inc.",Regeneron Pharmaceuticals Inc,REGN,10811596.4,4.51043641,Long
+"Illumina, Inc.",Illumina Inc,ILMN,9793165.05,4.085562074,Long
+"Biogen, Inc.",Biogen Inc,BIIB,9178035.2,3.828939096,Long
+"Seattle Genetics, Inc.",Seattle Genetics Inc,SGEN,7327800,3.057048627,Long
+"Moderna, Inc.",Moderna Inc,MRNA,6464020.7,2.696692814,Long
+Incyte Corp.,Incyte Corp,INCY,6437822.4,2.685763275,Long
+"Alexion Pharmaceuticals, Inc.",Alexion Pharmaceuticals Inc,ALXN,6424729.84,2.680301255,Long
+"BioMarin Pharmaceutical, Inc.",BioMarin Pharmaceutical Inc,BMRN,6407019.64,2.672912824,Long
+"Corteva, Inc.",Corteva Inc,CTVA,6020195.22,2.511535458,Long
+"Alnylam Pharmaceuticals, Inc.",Alnylam Pharmaceuticals Inc,ALNY,5444523.6,2.271373863,Long
+Exact Sciences Corp.,Exact Sciences Corp,EXAS,4811868.18,2.007439479,Long
+Horizon Therapeutics plc,Horizon Therapeutics Plc,HZNP,4584794.2,1.912707608,Long
+"Sarepta Therapeutics, Inc.",Sarepta Therapeutics Inc,SRPT,4566322.86,1.905001642,Long
+"Neurocrine Biosciences, Inc.",Neurocrine Biosciences Inc,NBIX,4422378,1.844949998,Long
+Bio-Techne Corp.,Bio-Techne Corp,TECH,4282687.26,1.786673109,Long
+Mylan N.V.,Mylan NV,MYL,3854810.16,1.608169179,Long
+"Immunomedics, Inc.",Immunomedics Inc,IMMU,3849563.68,1.605980425,Long
+"Ionis Pharmaceuticals, Inc.",Ionis Pharmaceuticals Inc,IONS,3784760.32,1.578945432,Long
+"Guardant Health, Inc.",Guardant Health Inc,GH,3739930.74,1.560243202,Long
+"Exelixis, Inc.",Exelixis Inc,EXEL,3656102.44,1.525271288,Long
+"ACADIA Pharmaceuticals, Inc.",ACADIA Pharmaceuticals Inc,ACAD,3510585.16,1.464563654,Long
+First American Government Obligations Fund,First American Funds,,3474236.5,1.449399536,Long
+Jazz Pharmaceuticals plc,Jazz Pharmaceuticals PLC,JAZZ,3387106.98,1.413050403,Long
+"Syneos Health, Inc.",Syneos Health Inc,SYNH,3355782.5,1.399982298,Long
+"PRA Health Sciences, Inc.",PRA Health Sciences Inc,PRAH,3258339.39,1.359330489,Long
+United Therapeutics Corp.,United Therapeutics Corp,UTHR,3139708,1.309839246,Long
+Novocure Ltd.,Novocure Ltd,NVCR,3073519,1.282226185,Long
+Alkermes plc,Alkermes PLC,,3030207.18,1.264157141,Long
+Amarin Corporation plc,Amarin Corp PLC,,2990152.76,1.247447036,Long
+"Mirati Therapeutics, Inc.",Mirati Therapeutics Inc,,2963054.01,1.236141842,Long
+"Arrowhead Pharmaceuticals, Inc.",Arrowhead Pharmaceuticals Inc,,2947156.03,1.229509443,Long
+"Ultragenyx Pharmaceutical, Inc.",Ultragenyx Pharmaceutical Inc,,2939507.6,1.226318632,Long
+"Acceleron Pharma, Inc.",Acceleron Pharma Inc,,2900018.8,1.209844495,Long
+BeiGene Ltd.,BeiGene Ltd,,2803392,1.169533238,Long
+Nektar Therapeutics,Nektar Therapeutics,,2730355.56,1.139063527,Long
+"Agios Pharmaceuticals, Inc.",Agios Pharmaceuticals Inc,,2670684.24,1.114169545,Long
+"Bluebird Bio, Inc.",Bluebird Bio Inc,,2591209.04,1.081013679,Long
+"Global Blood Therapeutics, Inc.",Global Blood Therapeutics Inc,,2576524.69,1.074887588,Long
+"FibroGen, Inc.",FibroGen Inc,,2532192.81,1.05639299,Long
+"Iovance Biotherapeutics, Inc.",Iovance Biotherapeutics Inc,,2516890.5,1.050009095,Long
+"PTC Therapeutics, Inc.",PTC Therapeutics Inc,,2378183.8,0.992142733,Long
+"Ligand Pharmaceuticals, Inc.",Ligand Pharmaceuticals Inc,,1800896.85,0.751307247,Long
+"Portola Pharmaceuticals, Inc.",Portola Pharmaceuticals Inc,,1568188.3,0.654224718,Long
+"Intercept Pharmaceuticals, Inc.",Intercept Pharmaceuticals Inc,,1324376.13,0.552509925,Long
+"Myriad Genetics, Inc.",Myriad Genetics Inc,,1103642.82,0.460423288,Long
+J.P. Morgan Securities LLC,J.P. MORGAN SECURITIES LLC,,856222.94,0.357203412,Long
+"Sage Therapeutics, Inc.",Sage Therapeutics Inc,,836423.28,0.34894329,Long
+"BofA Securities, Inc.","BOFA SECURITIES, INC.",,354600.68,0.147934103,Long
+"Barclays Capital, Inc.",BARCLAYS CAPITAL INC.,,333324.64,0.139058057,Long
+"Clinical Data, Inc.",Clinical Data Inc,,0.02,8.34E-09,Long
